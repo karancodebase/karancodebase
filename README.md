@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **ReactJS**
 
-- 👨‍💻 Portfolio [https://jaydatt-karan.netlify.app/](https://jaydatt-karan.netlify.app/)
+- 👨‍💻 Portfolio [https://jaydatt-karan.netlify.app/](https://jaydattkaran.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
