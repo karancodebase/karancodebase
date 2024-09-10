@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **WebDev and Web3**
 
-- 👨‍💻 Portfolio [https://jaydatt-karan.netlify.app/](https://jaydattkaran.netlify.app/)
+- 👨‍💻 Portfolio https://jaydattkaran.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
