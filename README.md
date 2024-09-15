@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Jaydatt Karan</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web3 | Web Developer</h3>
 
 - 🌱 Currently learning **WebDev and Web3**
 
