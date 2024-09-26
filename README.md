@@ -41,4 +41,4 @@ Tech Skills (Toggle)
 
 
 ###
-<img src="https://raw.githubusercontent.com/GleanCoder/GleanCoder/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
