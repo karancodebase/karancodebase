@@ -11,20 +11,33 @@
 <a href="https://www.linkedin.com/in/jaydattkaran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaydattkaran/" height="30" width="40" border="none"/></a>
 </p>
 
-<h3 align="center">Tech Stacks : </h3>
-<div align=center>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aadltya.aadltya" />
+
+<hr />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydattkaran&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<details>
+<summary> 
+Tech Skills (Toggle)
+</summary>
+
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" border="none" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" border="none" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png" alt="typescript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" alt="nextjs" width="40" height="40" />
-  <img src="https://img.icons8.com/?size=48&id=54087&format=png" alt="nodejs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <p> & more...</p>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwindcss,express)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongoDB)](https://skillicons.dev)
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev)
+
+</details>
 
 
 ###
