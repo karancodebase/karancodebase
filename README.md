@@ -41,4 +41,4 @@ Tech Skills (Toggle)
 
 
 ###
-<img src="https://raw.githubusercontent.com/aadltya/aadltya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jaydattkaran/jaydattkaran/output/snake.svg" alt="Snake animation" />
