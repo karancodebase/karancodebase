@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm Jaydatt Karan</h1>
 <h3 align="center">Learning Web3 | Web Developer</h3>
 <div align=center> 
-<p> 🌱 Currently learning **WebDev and Web3**  </p>
+<p> 🌱 Currently learning Web3 and Web Developer </p>
 
 <p> 👨‍💻 Portfolio - https://jaydattkaran.vercel.app/ </p>
 </div>
