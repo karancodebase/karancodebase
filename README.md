@@ -32,7 +32,7 @@
 
 <h3>Tools</h3>
  
-[![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev) -->
 
 
 ###
