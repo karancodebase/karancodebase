@@ -20,7 +20,7 @@
 
 <h3>Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts)](https://skillicons.dev)
 
 <h3>Frameworks</h3>
   
@@ -28,11 +28,11 @@
 
 <h3>Databases</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=mongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 <h3>Tools</h3>
  
-[![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postman,git,aws,figma,bash,gcp,linux,ubuntu)](https://skillicons.dev) 
 
 
 ###
