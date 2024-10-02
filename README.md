@@ -28,11 +28,11 @@
 
 <h3>Databases</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongoDB)](https://skillicons.dev)
 
 <h3>Tools</h3>
  
-<!-- [![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev) 
 
 
 ###
