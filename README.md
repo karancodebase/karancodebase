@@ -51,16 +51,18 @@ Let’s create something awesome together! 🚀
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jaydattkaran.jaydattkaran" /> -->
 
+| Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/jaydattkaran) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## Tech Stacks & Tools
 
-| Languages | [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts)](https://skillicons.dev) | 
+| Languages | [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,js,ts)](https://skillicons.dev) | 
 | ------------- | ------------- |
 
-| Frameworks | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,tailwindcss,express)](https://skillicons.dev) | 
+| Frameworks | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,threejs,express,vite)](https://skillicons.dev) | 
 | ------------- | ------------- |
 
-| Databases | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev) | 
+| Databases | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,appwrite)](https://skillicons.dev) | 
 | ------------- | ------------- |
 
 | Tools | [![My Skills](https://skillicons.dev/icons?i=postman,git,aws,figma,bash,gcp,linux,ubuntu)](https://skillicons.dev)  | 
