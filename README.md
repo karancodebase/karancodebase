@@ -17,14 +17,14 @@ Love the **traditional web stack**, but Web3? That’s where things get **next-l
 Why click buttons when you can type magic? I built:
 
 
-> Coding challenges, but make it fun.
+##### Coding challenges, but make it fun.
 ---
 ```
 npx codegames
 ```
 
 
-> My portfolio, but in your terminal.
+##### My portfolio, but in your terminal.
 ---
 ```
 npx karancodes
