@@ -42,7 +42,7 @@ Let’s create something awesome together! 🚀
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jaydattkaran.jaydattkaran" /> -->
 
-| Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | ![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/jaydattkaran) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) |
+| Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaydattkaran/) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## Tech Stacks & Tools
