@@ -40,15 +40,6 @@ Let’s create something awesome together! 🚀
 
 ### 👨‍💻 Portfolio - https://jaydattkaran.vercel.app/
 
-
-
-## Connet with me
-
-<p align="left">
-<a href="https://twitter.com/jaydattkaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jaydattkaran" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jaydattkaran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaydattkaran/" height="30" width="40" border="none"/></a>
-</p>
-
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jaydattkaran.jaydattkaran" /> -->
 
 | Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/jaydattkaran) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) |
