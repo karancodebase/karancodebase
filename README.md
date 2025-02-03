@@ -30,14 +30,6 @@ My portfolio, but in your terminal.
 npx karancodes
 ```
 
-
-
-⚡ Fun fact: I do workout when I’m not coding.  
-Let’s create something awesome together! 🚀
-⚡ Fun fact: I do workout when I’m not coding.  
-Let’s create something awesome together! 🚀
-
-
 ### 👨‍💻 Portfolio - https://jaydattkaran.vercel.app/
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jaydattkaran.jaydattkaran" /> -->
