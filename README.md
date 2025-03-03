@@ -1,7 +1,6 @@
 
 
 # Hello Developers👋, I'm Jaydatt Karan
-### A Passionate full-stack developer based in India ❤️
 
 🚀 **CSE Student (2026)** | Full-Stack Builder
 
