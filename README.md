@@ -3,9 +3,11 @@
 # Hello Developers👋, I'm Jaydatt Karan
 ### A Passionate full-stack developer based in India ❤️
 
-I’m a **CSE student (2026)** who thrives on the **full-stack grind**—from **sleek UIs to scalable backend magic**.  
+🚀 **CSE Student (2026)** | Full-Stack Builder
 
-I **break, fix, and build** with **JavaScript, React, Node.js & Web3**—because why pick one when you can have both? Web2 keeps things **smooth**, Web3 keeps things **wild**. I mix them up for **faster, smarter, and decentralized experiences**.  
+I thrive on the **full-stack grind** — from crafting **sleek UIs to engineering scalable backends**.
+
+I **break, fix, and build** using **JavaScript, React, Node.js & Web3** — because why choose one when you can master both? Web2 keeps things **smooth**, Web3 keeps things **wild**. I blend them for **faster, smarter, and decentralized experiences**.
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
