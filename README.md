@@ -16,7 +16,7 @@ Love the **traditional web stack**, but Web3? That’s where things get **next-l
 
 ### 💻 CLI & Automation Geek
 Why click buttons when you can type magic? I built:
-
+---
 
 ### Coding challenges, but make it fun.
 ---
@@ -65,5 +65,3 @@ npx karancodes
 
 
 ![snake animation](https://raw.githubusercontent.com/jaydattkaran/jaydattkaran/output/snake.svg)
-
-
