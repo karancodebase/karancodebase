@@ -2,36 +2,27 @@
 
 # Hello Developers👋, I'm Jaydatt Karan
 
-🚀 **CSE Student (2026)** | Full-Stack Builder
+🚀 SWE (2026) | Full-Stack Developer | Web3 Enthusiast
 
-I thrive on the **full-stack grind** — from crafting **sleek UIs to engineering scalable backends**.
+I love building things that **just work**—from crafting intuitive UIs to engineering scalable backends and experiment with **Web3 tech**.  
+Breaking stuff, debugging nightmares, and shipping clean code is my daily grind.
 
-I **break, fix, and build** using **JavaScript, React, Node.js & Web3** — because why choose one when you can master both? Web2 keeps things **smooth**, Web3 keeps things **wild**. I blend them for **faster, smarter, and decentralized experiences**.
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-#### 💡 Web2 Meets Web3
-Love the **traditional web stack**, but Web3? That’s where things get **next-level**. I build **Ethereum-powered apps, smart contracts (Solidity), and decentralized storage**—merging **Web2’s speed with Web3’s trustlessness** for **better ownership and accessibility**. 
-
-
-### 💻 CLI & Automation Geek
-Why click buttons when you can type magic? I built:
----
-
-### Coding challenges, but make it fun.
----
-```
-npx codegames
-```
-
-
-### My portfolio, but in your terminal.
----
-```
-npx karancodes
-```
+Always learning, always building.
 
 ### 👨‍💻 Portfolio - [https://www.jaydatt.xyz/](https://www.jaydatt.xyz/)
+
+
+#### 💻 CLI & Automation Geek
+Why click buttons when you can type magic?
+
+| Coding challenges, but make it fun. | ` npx codegames ` |
+| ------------- | ------------- | 
+
+| My portfolio, but in your terminal. | ` npx karancodes ` |
+| ------------- | ------------- | 
 
 
 | Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaydattkaran/) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) |
@@ -51,7 +42,6 @@ npx karancodes
 | Tools | [![My Skills](https://skillicons.dev/icons?i=postman,git,aws,figma,bash,gcp,linux,ubuntu)](https://skillicons.dev)  | 
 | ------------- | ------------- |
 
----
 
 ## Github Stats
 
@@ -60,7 +50,6 @@ npx karancodes
 
 ![streak](https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=jaydattkaran&theme=gotham)
 
----
 ![stats](https://github-readme-activity-graph.vercel.app/graph?username=jaydattkaran&radius=16&theme=react&area=true&order=5)
 
 
