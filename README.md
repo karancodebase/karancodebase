@@ -45,12 +45,12 @@ Why click buttons when you can type magic?
 
 ## Github Stats
 
-| ![stats](https://github-readme-stats.vercel.app/api?username=jaydattkaran&show_icons=true&theme=gotham&hide_border=true) | ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&hide_border=true) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=karancodebase&show_icons=true&theme=gotham&hide_border=true) | ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&hide_border=true) |
 | ------------- | ------------- |
 
-![streak](https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=jaydattkaran&theme=gotham)
+![streak](https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=karancodebase&theme=gotham)
 
-![stats](https://github-readme-activity-graph.vercel.app/graph?username=jaydattkaran&radius=16&theme=react&area=true&order=5)
+![stats](https://github-readme-activity-graph.vercel.app/graph?username=karancodebase&radius=16&theme=react&area=true&order=5)
 
 
-![snake animation](https://raw.githubusercontent.com/jaydattkaran/jaydattkaran/output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/karancodebase/jaydattkaran/output/snake.svg)
