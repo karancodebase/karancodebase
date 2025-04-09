@@ -108,7 +108,7 @@ Whether you’ve got feedback, ideas, or just want to vibe over some chai & code
       <sub>curated work & projects</sub>
     </td>
      <td align="center">
-      <a href="[https://peerlist.io/jaydatt](https://bento.me/jaydatt)">@jaydatt</a><br/>
+      <a href="https://bento.me/jaydatt">@jaydatt</a><br/>
      <sub>quick profile + all my links</sub>
     </td>
   </tr>
