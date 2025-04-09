@@ -14,6 +14,7 @@ Always learning, always building.
 
 ### 👨‍💻 Portfolio - [https://www.jaydatt.xyz/](https://www.jaydatt.xyz/)
 
+[![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/jaydatt)
 
 #### 💻 CLI & Automation Geek
 Why click buttons when you can type magic?
