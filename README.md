@@ -25,8 +25,9 @@ Why click buttons when you can type magic?
 | ------------- | ------------- | 
 
 
-| Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaydattkaran/) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+
+| Connect with me | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaydattkaran) | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaydattkaran/) | [![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/karan.xyz) | [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:karanjaydatt03@gmail.com) | [![Peerlist](https://github-readme-badge.peerlist.io/api/jaydatt)](https://peerlist.io/jaydatt) |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 
 [![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/jaydatt)
 
