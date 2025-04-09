@@ -73,13 +73,48 @@ From midnight debugging marathons to chai-fueled hackathons — I live for the c
 
 Whether you’ve got feedback, ideas, or just want to vibe over some chai & code — I’m always up for a good conversation:
 
-| Platform | Link | What I’m doing there |
-|----------|------|----------------------|
-| 🐦 **Twitter** | [@karandefinitely](https://twitter.com/karandefinitely) | Thoughts, dev drops, and memes in 280 characters |
-| 👔 **LinkedIn** | [Jaydatt Karan](https://www.linkedin.com/in/jaydattkaran/) | Professional presence, work updates, collab-ready |
-| 🎮 **Discord** | [karan.xyz](https://discord.com/users/karan.xyz) | Catch me during hackathons or in dev communities |
-| ✉️ **Email** | [karanjaydatt03@gmail.com](mailto:karanjaydatt03@gmail.com) | For collabs, freelance work, or deep convos |
-| 🔗 **Peerlist** | [@jaydatt](https://peerlist.io/jaydatt) | Developer portfolio + professional credibility |
+<table>
+  <tr>
+    <th align="center">🐦 Twitter</th>
+    <th align="center">👔 LinkedIn</th>
+    <th align="center">🎮 Discord</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/karandefinitely">karandefinitely</a><br/>
+      <sub>thoughts, builds & tech rants</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/jaydattkaran/">Jaydatt Karan</a><br/>
+      <sub>networking, collabs & work stuff</sub>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/users/karan.xyz">karan.xyz</a><br/>
+      <sub>dev banter & chill</sub>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">✉️ Email</th>
+    <th align="center">🔗 Peerlist</th>
+    <th align="center">📦 Bento</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:karanjaydatt03@gmail.com">karanjaydatt03@gmail.com</a><br/>
+      <sub>shoot me a message anytime</sub>
+    </td>
+    <td align="center">
+      <a href="https://peerlist.io/jaydatt">@jaydatt</a><br/>
+      <sub>curated work & projects</sub>
+    </td>
+     <td align="center">
+      <a href="[https://peerlist.io/jaydatt](https://bento.me/jaydatt)">@jaydatt</a><br/>
+     <sub>quick profile + all my links</sub>
+    </td>
+  </tr>
+</table>
+
+
 
 ☕ If you enjoy what I do — [**Buy Me a Chai**](https://buymeachai.ankushminda.com/jaydatt) and help me keep the late-night commits flowing!
 
