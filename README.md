@@ -1,4 +1,4 @@
-# 🙏🏻 Namaste Internet! I'm Jaydatt Karan
+# GM GM! I'm Jaydatt
 
 🚀 SWE’26 • Full-Stack Dev • Web3 Curious 
 
