@@ -1,23 +1,41 @@
-# GM GM! I'm Jaydatt
+### GM GM!
 
-🚀 SWE’26 • Full-Stack Dev • Web3 Curious 
+## it's jaydatt - codes weird, ships real
 
-I build things that *just work™* — intuitive frontends, solid backends, and everything in between.  
-From midnight debugging marathons to chai-fueled hackathons — I live for the chaos of creation.
+Started with a curiosity for breaking things on the internet, now building something on top of it.  
+full-stack dev turned product person, turned founder who still codes like it’s 2am in a hoodie.
 
-🧠 Currently exploring the intersection of **decentralization, DevTools**, and **digital communities**.  
+currently building in public, learning in loops, and always one deploy away from dopamine.
 
-🐍 Sometimes I break stuff just to fix it better.  
-🎯 Always learning. Always building. Always shipping.
+Whether it's crafting onchain social platforms like [BuddyFi](https://www.buddyfi.xyz), turning GitHub streaks into NFTs with Devira, or building AI agents that think with you - my focus is simple:  
+**Ship fast. Build bold. Stay weird.**
 
-> “Code, Chai aur Community — bas isi mein jeevan safal hai.”
+I’ve always followed one rule:  **If it excites me, I build it.**
 
-### 🚀 Projects & CLI Magic  
-- Portfolio → [https://www.jaydatt.xyz](https://www.jaydatt.xyz)  
-- `npx codegames` — coding challenges, but fun  
-- `npx karancodes` — my portfolio, right in your terminal  
+### tools in my backpack
 
-☕ If you enjoy what I do — [**Buy Me a Chai**](https://buymeachai.ankushminda.com/jaydatt) and help me keep the late-night commits flowing!
+next.js • rust • tailwind • solana  
+and a strong dislike for bloated apps.
+
+
+### now
+
+building stuff that feels like play but solves real problems.  
+rewriting, refining, and releasing - fast.  
+sometimes alone, sometimes with a crew. always shipping.
+
+
+### elsewhere
+
+portfolio here - [🌐 jaydatt.xyz](https://www.jaydatt.xyz)  
+tweets? [@karandefinitely](https://x.com/karandefinitely)  
+have this also [linkedin](https://linkedin.com/in/jaydattkaran)
+
+> code, chai aur community - bas isi mein jeevan safal hai.
+
+> open to collabs, chaos, and coffee-fueled builds.
+
+Liked what you saw? Airdrop a little boost to `jaydatt.sol` — every drop fuels the next banger.
 
 
 ### 📊 GitHub Stats
