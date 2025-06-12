@@ -7,8 +7,7 @@ full-stack dev turned product person, turned founder who still codes like it’s
 
 currently building in public, learning in loops, and always one deploy away from dopamine.
 
-Whether it's crafting onchain social platforms like [BuddyFi](https://www.buddyfi.xyz), turning GitHub streaks into NFTs with Devira, or building AI agents that think with you - my focus is simple:  
-**Ship fast. Build bold. Stay weird.**
+Whether it's crafting onchain social platforms like [BuddyFi](https://www.buddyfi.xyz), turning GitHub streaks into NFTs with Devira, or building AI agents that think with you - my focus is simple: **Ship fast. Build bold. Stay weird.**
 
 I’ve always followed one rule:  **If it excites me, I build it.**
 
