@@ -26,7 +26,7 @@ sometimes alone, sometimes with a crew. always shipping.
 
 ### elsewhere
 
-portfolio here - [🌐 jaydatt.xyz](https://www.jaydatt.xyz)  
+portfolio here - [jaydatt.xyz](https://www.jaydatt.xyz)  
 tweets? [@karandefinitely](https://x.com/karandefinitely)  
 have this also [linkedin](https://linkedin.com/in/jaydattkaran)
 
